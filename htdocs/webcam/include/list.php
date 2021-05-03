@@ -1,4 +1,4 @@
-<?
+<?php
 // --------------------------------------------------------------------------
 // Foto-Webcam.eu
 // Create JSON listing for archive navigation

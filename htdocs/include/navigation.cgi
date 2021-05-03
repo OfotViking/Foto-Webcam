@@ -1,5 +1,5 @@
 #!/usr/bin/php
-<?
+<?php
 // --------------------------------------------------------------------------
 // Foto-Webcam.eu - Website main menu
 // Exe wrapper for navigation script (for usage with perl etc)

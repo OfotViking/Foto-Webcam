@@ -1,4 +1,4 @@
-<?
+<?php
 // --------------------------------------------------------------------------
 // Foto-Webcam.eu
 // Await command for webcam remote host

@@ -1,4 +1,4 @@
-<?
+<?php
 // --------------------------------------------------------------------------
 // Foto-Webcam.eu - Website main menu
 // Global configuration

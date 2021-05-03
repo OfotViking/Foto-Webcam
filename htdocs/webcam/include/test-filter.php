@@ -1,4 +1,4 @@
-<?
+<?php
 // --------------------------------------------------------------------------
 // Foto-Webcam.eu
 // Render full-sized original image with region filtering applied

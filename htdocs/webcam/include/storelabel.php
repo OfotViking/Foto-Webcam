@@ -1,4 +1,4 @@
-<?
+<?php
 // --------------------------------------------------------------------------
 // Foto-Webcam.eu
 // Store Webcam labels into database

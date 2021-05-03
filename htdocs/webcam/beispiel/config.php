@@ -1,4 +1,4 @@
-<?
+<?php
 // Webcam Configuration
 //
 $webcam['title']=       "Beispiel-Webcam BOS Bad Tölz";

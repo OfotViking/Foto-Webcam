@@ -1,5 +1,5 @@
 #!/usr/bin/php
-<?
+<?php
 // Crawl webcam file system and add triggers to database
 //
 $root= "/home/htdocs";

@@ -1,4 +1,4 @@
-<?
+<?php
 // --------------------------------------------------------------------------
 // Foto-Webcam.eu
 // Mobile overview page
@@ -20,7 +20,7 @@ require($_SERVER['DOCUMENT_ROOT']."/webcam/include/config.php");
   </style>
 </head>
 <body>
-<?
+<?php
 foreach ($webcam['overview'] as $cam) {
   $name= $cam[0];
   $current= $cam[1];

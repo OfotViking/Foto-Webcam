@@ -1,4 +1,4 @@
-<?
+<?php
 // --------------------------------------------------------------------------
 // Foto-Webcam.eu
 // Main page
@@ -125,4 +125,4 @@ $(document).ready(function() {
 Webcam-Bilder für Smartphones optimiert: <a href="/m/">foto-webcam.eu/m</a>
 </div>
 <br>
-<? navEnd(); ?>
+<?php navEnd(); ?>
